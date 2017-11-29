@@ -14,10 +14,10 @@
 #include <log-plugin>
 #include <streamer>
 
-#define SQL_HOST						"127.0.0.1" 			// MySQL server's host IP
-#define SQL_USER 						"root"					// MySQL server's user name
-#define SQL_PASS						""						// MySQL server's user password
-#define SQL_DB							"motion"				// MySQL server's database name
+#define SQL_HOST						"127.0.0.1" 			// MySQL servers host IP
+#define SQL_USER 						"root"					// MySQL servers user name
+#define SQL_PASS						""						// MySQL servers user password
+#define SQL_DB							"motion"				// MySQL servers database name
 
 #define SERVER_NAME						"Motion RolePlay"
 #define SERVER_MODE						"Motion RP"
